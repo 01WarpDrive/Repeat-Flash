@@ -1,3 +1,6 @@
+# My work
+1. support new dataset `LANL 2015`: run `my_lanl.ipynb`
+
 # FLASH 
 
 Welcome to the FLASH repository. Here, we offer the implementation details of the method introduced in our research paper titled "_FLASH: A Comprehensive Approach to Intrusion Detection via Provenance Graph Representation Learning_". Our paper can be found at this [Link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a139/1Ub23WQw20U).
